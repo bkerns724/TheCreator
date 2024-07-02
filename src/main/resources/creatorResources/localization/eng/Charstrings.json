@@ -1,0 +1,13 @@
+{
+  "${ModID}:ModdedCharacter": {
+    "NAMES": [
+      "The Creator",
+      "the Creator"
+    ],
+    "TEXT": [
+      "An unfinished creation, waiting for an expert to fill the canvas.",
+      "You fire your laser.",
+      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~Brother,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
+    ]
+  }
+}
